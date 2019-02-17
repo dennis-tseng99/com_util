@@ -57,6 +57,7 @@ typedef int		tIPC_ID;
 #define _LIT_ENDIAN
 #define ETH_MTU		(16*1024)
 #define ERROR		-1
+#define LINUX
 
 typedef enum {
 	FALSE,
